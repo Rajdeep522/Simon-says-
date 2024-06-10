@@ -1,2 +1,2 @@
 # Simon-says-
-Simon says game
+Simon says game.

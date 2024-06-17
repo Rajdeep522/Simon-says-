@@ -1,8 +1,5 @@
 # Simon-says-
 Simon says game.
 
-# teacher
-Apna college
-
-# student
+# created by
 Rajdeep Debnath

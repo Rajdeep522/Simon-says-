@@ -1,7 +1,7 @@
 # Simon-says-
 Simon says game.
 
-# created by
+# created by 
 Rajdeep Debnath
 
 # play and Fun to increase your IQ level
